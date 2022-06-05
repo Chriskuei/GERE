@@ -1,0 +1,1 @@
+python build_db.py data/wiki-pages data/fever_str_trie.db
